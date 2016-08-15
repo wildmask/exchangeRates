@@ -6,4 +6,4 @@ linux 设置定时任务：
 
 crontab -e
 
-*/1 * * * * python /var/www/exchange.py
+*/1 * * * * python /var/www/exchageRates/exchange.py
