@@ -1,0 +1,21 @@
+#rates {
+    display: inline-block;
+    border: 0.0625em solid #000;
+    border-collapse: collapse;
+ }
+#rates  th, #rates td {
+    padding: 1.25em 0.75em;
+    border-bottom: 0.0625em solid #000;
+ }
+#rates th {
+    font-weight: normal;
+ }
+#rates th span,
+#rates td span {
+    display: block;
+    line-height: 1.4em;
+ }
+#rates td span {
+    display: inline-block;
+    padding-right: 0.5em;
+ }
